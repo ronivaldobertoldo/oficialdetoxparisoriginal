@@ -1,0 +1,617 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" type="image/png" href="img/favicon.png"/>
+<title>Detox Paris</title>
+<link href="style.css" rel="stylesheet" type="text/css" media="all">
+<!-- Bootstrap !-->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
+<!-- Bootstrap !-->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+	
+<!-- Colocar Pixel ou GTM entre essaas TAGS !-->
+	
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PKDFK35');</script>
+	
+<!-- Colocar Pixel ou GTM entre essaas TAGS !-->
+	
+</head>
+
+<body>
+	
+<!-- Colocar segunda parte GTM entre essaas TAGS !-->
+	
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PKDFK35"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	
+<!-- Colocar segunda parte GTM entre essaas TAGS !-->
+	
+<header class="header">
+	<!-- Topo principal !-->
+	<section class="principal" id="principal">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 col-lg-12 col-sm-12">
+					<h1>O Fim da gordura localizada <br><span>Nova fórmula chega ao Brasil!</span></h1>
+					<p>Sua luta contra a balança agora tem um aliado: o relógio. <br>ELIMINE ATÉ 18KG EM 5 MESES COM <span>DETOX PARIS</span></p>
+				</div>
+
+				<!-- Benefícios 01 !-->
+				<div class="col-md-4 col-lg-4 col-sm-4">
+					<div class="bnf-col-1">
+						<!-- 01 !-->
+						<div class="bnf-1">
+							<img height="100%" width="100%" src="img/ic6.png" class="img-fluid img-responsive">
+							<h2><span>Reduz</span> a vontade <br>de comer</h2>
+						</div>
+						<!-- 01 !-->
+
+						<!-- 02 !-->
+						<div class="bnf-2">
+							<img height="100%" width="100%" src="img/ic5.png" class="img-fluid img-responsive">
+							<h2><span>Combate</span> estrias <br>e celulite</h2>
+						</div>
+						<!-- 02 !-->
+
+						<!-- 03 !-->
+						<div class="bnf-3">
+							<img height="100%" width="100%" src="img/ic4.png" class="img-fluid img-responsive">
+							<h2><span>Melhora</span> a <br>sua saúde</h2>
+						</div>
+						<!-- 03 !-->
+					</div>
+				</div>
+				<!-- Benefícios 01 !-->
+
+				<!-- Potes !-->
+				<div class="col-md-4 col-lg-4 col-sm-4">
+					<img height="100%" width="100%" src="img/potes-principal.png" class="potes-principal img-fluid img-responsive bounce">
+				</div>
+				<!-- Potes !-->
+
+				<!-- Benefícios 02 !-->
+				<div class="col-md-4 col-lg-4 col-sm-4">
+					<div class="bnf-col-2">
+						<!-- 01 !-->
+						<div class="bnf-4">
+							<img height="100%" width="100%" src="img/ic3.png" class="img-fluid img-responsive">
+							<h2><span>Saudável</span> e <br>100% natural</h2>
+						</div>
+						<!-- 01 !-->
+
+						<!-- 02 !-->
+						<div class="bnf-5">
+							<img height="100%" width="100%" src="img/ic2.png" class="img-fluid img-responsive">
+							<h2><span>Queima</span> gordura <br>localizada</h2>
+						</div>
+						<!-- 02 !-->
+
+						<!-- 03 !-->
+						<div class="bnf-6">
+							<img height="100%" width="100%" src="img/ic1.png" class="img-fluid img-responsive">
+							<h2><span>Acelera</span> o <br>metabolismo</h2>
+						</div>
+						<!-- 03 !-->
+					</div>
+				</div>
+				<!-- Benefícios 02 !-->
+
+				<!-- CTA !-->
+				<div class="col-md-12 col-lg-12 col-sm-12">
+					<a href="#oferta" class="cta cta-principal pulsar">Comprar Agora</a>
+					<img height="100%" width="100%" src="img/pagamento.png" class="pagamento img-fluid img-responsive">
+				</div>
+				<!-- CTA !-->
+
+			</div>
+		</div>
+	</section>
+	<!-- Topo principal !-->	
+</header>
+	
+<!-- Como funciona !-->
+<section class="comofunciona" id="comofunciona">
+<div class="container">
+	<div class="row">
+		
+		<div class="col-md-5 col-lg-5 col-sm-5">
+			<img height="100%" width="100%" src="img/comofunciona.jpg" class="comofunciona img-fluid img-responsive">
+		</div>
+		
+		<div class="col-md-7 col-lg-7 col-sm-7">
+			<h1>Como funciona o <span>Detox Paris</span></h1>
+			<p>O <span>Detox Paris</span> é um poderoso detox com a tecnologia Time-Release que diminui a retenção dos líquidos e o inchaço do seu corpo, elimina as substâncias inflamatórias, acelera o seu metabolismo e te ajuda emagrecer de forma rápida e saudável.</p>
+			<p><span>Detox Paris</span> é para você que está cansada de ter que pular de dieta em dieta, ou mesmo passar fome sem conseguir conquistar NENHUM resultado.</p>
+			<p><b>Juntos vamos acelerar sua queima de calorias de forma segura e natural!</b></p>
+			<a href="#oferta" class="cta cta-comofunciona pulsar">Comprar Agora</a>
+			<img height="100%" width="100%" src="img/pagamento.png" class="pagamento img-fluid img-responsive">
+		</div>
+		
+	</div>
+</div>
+</section>
+<svg id="wavecomofunciona" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+            <path class="elementor-shape-fill" d="M421.9,6.5c22.6-2.5,51.5,0.4,75.5,5.3c23.6,4.9,70.9,23.5,100.5,35.7c75.8,32.2,133.7,44.5,192.6,49.7 c23.6,2.1,48.7,3.5,103.4-2.5c54.7-6,106.2-25.6,106.2-25.6V0H0v30.3c0,0,72,32.6,158.4,30.5c39.2-0.7,92.8-6.7,134-22.4 c21.2-8.1,52.2-18.2,79.7-24.2C399.3,7.9,411.6,7.5,421.9,6.5z"></path>
+        </svg>
+<!-- Como funciona !-->
+
+<!-- Benefícios !-->
+<section class="beneficios" id="beneficios">
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 col-lg-12 col-sm-12">
+			<h1>Os Benefícios começam <br><span>nas primeiras cápsulas</span></h1>
+			<h2>Saiba por que o Detox Paris é o único no mercado <br>com funcionamento garantido.</h2>
+		</div>
+		
+		<!-- Benefícios 01 !-->
+		<div class="col-md-4 col-lg-4 col-sm-4">
+			<div class="bnfp-col-1">
+				
+				<div class="bnfp-1">
+					<img height="100%" width="100%" src="img/bnfp1.png" class="img-fluid img-responsive">
+					<div class="content-bnfp-1">
+						<h3>Acelera o Metabolismo</h3>
+						<p>Aumenta a termogênese estimulando o organismo a eliminar substâncias ruins ou tóxicas. Fazendo com que seu corpo se mantenha mais saudável.</p>
+					</div>
+				</div>
+				
+				<div class="bnfp-2">
+					<img height="100%" width="100%" src="img/bnfp2.png" class="img-fluid img-responsive">
+					<div class="content-bnfp-2">
+						<h3>Queima gordura</h3>
+						<p>Incentiva as enzimas do organismo a quebrarem as células de gordura. Promove a Lipase, obrigando o corpo a usar gordura como fonte de energia.</p>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+		<!-- Benefícios 01 !-->
+		
+		<!-- Cápsula !-->
+		<div class="col-md-4 col-lg-4 col-sm-4">
+		<img height="100%" width="100%" src="img/spin.png" class="img-fluid img-responsive spiner">
+			<img height="100%" width="100%" src="img/capsula.png" class="capsula img-fluid img-responsive bounce">
+		</div>
+		<!-- Cápsula !-->
+		
+		<!-- Benefícios 02 !-->
+		<div class="col-md-4 col-lg-4 col-sm-4">
+			<div class="bnfp-col-2">
+				
+				<div class="bnfp-3">
+					<img height="100%" width="100%" src="img/bnfp3.png" class="img-fluid img-responsive">
+					<div class="content-bnfp-3">
+						<h3>Diminui o Apetite</h3>
+						<p>Os ativos formam um gel que cobre as paredes do estômago e do intestino, diminuindo o apetite e reduzindo a absorção de açúcares e gorduras.</p>
+					</div>
+				</div>
+				
+				<div class="bnfp-4">
+					<img height="100%" width="100%" src="img/bnfp4.png" class="img-fluid img-responsive">
+					<div class="content-bnfp-4">
+						<h3>Regula o Intestino</h3>
+						<p>Por ser composto por diversas fibras inteligentes, seu intestino começará a trabalhar de forma correta. Ajuda quem sofre com intestino preguiçoso.</p>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+		<!-- Benefícios 02 !-->
+		
+		<!-- CTA !-->
+		<div class="col-md-12 col-lg-12 col-sm-12">
+			<a href="#oferta" class="cta cta-beneficios pulsar">Comprar Agora</a>
+			<img height="100%" width="100%" src="img/pagamento.png" class="pagamento img-fluid img-responsive">
+		</div>
+		<!-- CTA !-->
+		
+	</div>
+</div>
+</section>
+<svg id="wavebeneficios" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+            <path class="elementor-shape-fill" d="M421.9,6.5c22.6-2.5,51.5,0.4,75.5,5.3c23.6,4.9,70.9,23.5,100.5,35.7c75.8,32.2,133.7,44.5,192.6,49.7 c23.6,2.1,48.7,3.5,103.4-2.5c54.7-6,106.2-25.6,106.2-25.6V0H0v30.3c0,0,72,32.6,158.4,30.5c39.2-0.7,92.8-6.7,134-22.4 c21.2-8.1,52.2-18.2,79.7-24.2C399.3,7.9,411.6,7.5,421.9,6.5z"></path>
+        </svg>
+<!-- Benefícios !-->
+
+<!-- Completo e Avançado !-->
+<section class="completoavancado" id="completoavancado">
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 col-lg-12 col-sm-12 copy">
+			<h1>Completo e Avançado <br><span>Emagrecedor nº 1</span></h1>
+			<p>Diferente de outros produtos disponíveis no mercado, o Detox Paris possui Registro no Ministério da Saúde e Autorização da ANVISA. Detox Paris se destaca por apresentar uma composição 100% natural, contando com poderosos ingredientes cuidadosamente selecionados, que trabalham em conjunto e garantem uma queima de gordura rápida e definitiva para o seu corpo.</p>
+		</div>
+		
+		<div class="col-md-6 col-lg-6 col-sm-6">
+			<!-- Lista de ingredientes !-->
+			<div class="ingredientes-col-1">
+				
+				<!-- Ingrediente 01 !-->
+				<div class="ingrediente-item-1">
+					<img height="100%" width="100%" src="img/formula1.jpg" class="formula1 img-fluid img-responsive">
+					<div class="content-ingrediente">
+						<h2>Spirulina</h2>
+						<p>Fonte de energia, vitamina e minerais a spirulina auxilia no fortalecimento do sistema imunológico, controla a pressão e o colesterol e melhora a performance muscular.</p>
+					</div>
+				</div>
+				<!-- Ingrediente 01 !-->
+				
+				<!-- Ingrediente 02 !-->
+				<div class="ingrediente-item-2">
+					<img height="100%" width="100%" src="img/formula2.jpg" class="formula2 img-fluid img-responsive">
+					<div class="content-ingrediente">
+						<h2>Vitamina E</h2>
+						<p>Efeito antioxidante poderoso a vitamina E é um dos segredos para cuidar do colesterol e gordura do fígado já que a mesma é responsável por eliminar as gorduras.</p>
+					</div>
+				</div>
+				<!-- Ingrediente 02 !-->
+				
+				<!-- Ingrediente 03 !-->
+				<div class="ingrediente-item-3">
+					<img height="100%" width="100%" src="img/formula3.jpg" class="formula3 img-fluid img-responsive">
+					<div class="content-ingrediente">
+						<h2>Guaraná</h2>
+						<p>Rico em energia e extraído diretamente da Amazônia ele auxilia o organismo a expulsar a gordura e age como um combustível para o corpo, fornecendo muito mais energia e disposição para o dia-a-dia.</p>
+					</div>
+				</div>
+				<!-- Ingrediente 03 !-->
+				
+			</div>
+			<!-- Lista de ingredientes !-->
+		</div>
+		
+		<div class="col-md-6 col-lg-6 col-sm-6">
+			<!-- Lista de ingredientes !-->
+			<div class="ingredientes-col-2">
+				
+				<!-- Ingrediente 04 !-->
+				<div class="ingrediente-item-4">
+					<img height="100%" width="100%" src="img/formula4.jpg" class="formula4 img-fluid img-responsive">
+					<div class="content-ingrediente">
+						<h2>Cromo</h2>
+						<p>Age diretamente como um poderoso inibidor de apetite, trazendo saciedade e rápidos resultados na balança.</p>
+					</div>
+				</div>
+				<!-- Ingrediente 04 !-->
+				
+				<!-- Ingrediente 05 !-->
+				<div class="ingrediente-item-5">
+					<img height="100%" width="100%" src="img/formula5.jpg" class="formula5 img-fluid img-responsive">
+					<div class="content-ingrediente">
+						<h2>Quitosana</h2>
+						<p>Remédio Natural responsável por eliminar a gordura do corpo e regular o trânsito intestinal.</p>
+					</div>
+				</div>
+				<!-- Ingrediente 05 !-->
+				
+				<!-- Ingrediente 06 !-->
+				<div class="ingrediente-item-6">
+					<img height="100%" width="100%" src="img/formula6.jpg" class="formula6 img-fluid img-responsive">
+					<div class="content-ingrediente">
+						<h2>Psyllium</h2>
+						<p>Rico em fibra o psyllium auxilia na perda de peso, no controle do colesterol e na redução da pressão arterial.</p>
+					</div>
+				</div>
+				<!-- Ingrediente 06 !-->
+				
+			</div>
+			<!-- Lista de ingredientes !-->
+		</div>
+		
+	</div>
+</div>
+</section>
+<svg id="wavecompletoavancado" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+            <path class="elementor-shape-fill" d="M421.9,6.5c22.6-2.5,51.5,0.4,75.5,5.3c23.6,4.9,70.9,23.5,100.5,35.7c75.8,32.2,133.7,44.5,192.6,49.7 c23.6,2.1,48.7,3.5,103.4-2.5c54.7-6,106.2-25.6,106.2-25.6V0H0v30.3c0,0,72,32.6,158.4,30.5c39.2-0.7,92.8-6.7,134-22.4 c21.2-8.1,52.2-18.2,79.7-24.2C399.3,7.9,411.6,7.5,421.9,6.5z"></path>
+        </svg>
+<!-- Completo e Avançado !-->
+
+<!-- Testado e Aprovado !-->
+<section class="testadoaprovado" id="testadoaprovado">
+<div class="container">
+	<div class="row">
+		
+		<div class="col-md-7 col-lg-7 col-sm-7">
+			<h1>Como funciona o <span>Detox Paris</span></h1>
+			<p>O <span>Detox Paris</span> é um poderoso detox com a tecnologia Time-Release que diminui a retenção dos líquidos e o inchaço do seu corpo, elimina as substâncias inflamatórias, acelera o seu metabolismo e te ajuda emagrecer de forma rápida e saudável.</p>
+			<p><span>Detox Paris</span> é para você que está cansada de ter que pular de dieta em dieta, ou mesmo passar fome sem conseguir conquistar NENHUM resultado.</p>
+			<p><b>Juntos vamos acelerar sua queima de calorias de forma segura e natural!</b></p>
+			<a href="#oferta" class="cta cta-comofunciona pulsar">Comprar Agora</a>
+			<img height="100%" width="100%" src="img/pagamento.png" class="pagamento img-fluid img-responsive">
+		</div>
+		
+		<div class="col-md-5 col-lg-5 col-sm-5">
+			<img height="100%" width="100%" src="img/testadoaprovado.jpg" class="testadoaprovado img-fluid img-responsive">
+		</div>
+		
+	</div>
+</div>
+</section>
+<!-- Testado e Aprovado !-->
+
+<!-- Depoimentos !-->
+<section class="depoimentos" id="depoimentos">
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 col-lg-12 col-sm-12">
+			<h1>O que estão dizendo <br><span> SOBRE NOSSA FÓRMULA</span></h1>
+		</div>
+		
+		<div section="video" class="video">
+			<embed src="https://youtube.com/embed/hXciwBtgCsc" autostart="false" height="450" width="370" />
+			<embed src="https://youtube.com/embed/qMpanWyz3Wo" autostart="false" height="450" width="370" />
+			<embed src="https://youtube.com/embed/ApQb9Rb_5FQ" autostart="false" height="450" width="370" />
+			<embed src="https://youtube.com/embed/5Uo6m27VPo8" autostart="false" height="450" width="370" />
+			<embed src="https://youtube.com/embed/JebZ1c9zV3E" autostart="false" height="450" width="370" />
+		</div>
+		
+	</div>
+</div>
+</section>
+<!-- Depoimentos !-->
+
+<!-- Oferta !-->
+<section class="oferta" id="oferta">
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 col-lg-12 col-sm-12">
+			<h1>Escolha a <span>Melhor</span> opção pra você!</h1>
+			<p>APROVEITE A PROMOÇÃO ESSA OFERTA ACABA EM BREVE</p>
+		</div>
+		
+		<!-- Links de checkout !-->
+		<div class="col-md-3 col-lg-3 col-sm-3">
+			<a href="https://ev.braip.com/campanhas/cpa/camjl98o6" target="_blank" class="cta-ckt">
+				<img height="100%" width="100%" src="img/oferta12.jpg" class="oferta5 img-fluid img-responsive">
+				<a href="https://ev.braip.com/campanhas/cpa/camjl98o6" target="_blank" class="cta cta-oferta5 pulsar">Comprar Agora</a>
+			</a>
+		</div>
+		<!-- Links de checkout !-->
+		
+		<!-- Links de checkout !-->
+		<div class="col-md-3 col-lg-3 col-sm-3">
+			<a href="https://ev.braip.com/campanhas/cpa/cam2l5mdd" target="_blank" class="cta-ckt">
+				<img height="100%" width="100%" src="img/oferta5.jpg" class="oferta3 img-fluid img-responsive">
+				<a href="https://ev.braip.com/campanhas/cpa/cam2l5mdd" target="_blank" class="cta cta-oferta3 pulsar">Comprar Agora</a>
+			</a>
+		</div>
+		<!-- Links de checkout !-->
+		
+		<!-- Links de checkout !-->
+		<div class="col-md-3 col-lg-3 col-sm-3">
+			<a href="https://ev.braip.com/campanhas/cpa/camzl80dr" target="_blank" class="cta-ckt">
+				<img height="100%" width="100%" src="img/oferta3.jpg" class="oferta1 img-fluid img-responsive">
+				<a href="https://ev.braip.com/campanhas/cpa/camzl80dr" target="_blank" class="cta cta-oferta1 pulsar">Comprar Agora</a>
+			</a>
+		</div>
+		<!-- Links de checkout !-->
+		
+		<!-- Links de checkout !-->
+		<div class="col-md-3 col-lg-3 col-sm-3">
+			<a href="https://ev.braip.com/campanhas/cpa/camddkj9o" target="_blank" class="cta-ckt">
+				<img height="100%" width="100%" src="img/oferta1.jpg" class="oferta1 img-fluid img-responsive">
+				<a href="https://ev.braip.com/campanhas/cpa/camddkj9o" target="_blank" class="cta cta-oferta1 pulsar">Comprar Agora</a>
+			</a>
+		</div>
+		<!-- Links de checkout !-->
+		
+	</div>
+</div>
+</section>
+<svg id="waveoferta" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+            <path class="elementor-shape-fill" d="M421.9,6.5c22.6-2.5,51.5,0.4,75.5,5.3c23.6,4.9,70.9,23.5,100.5,35.7c75.8,32.2,133.7,44.5,192.6,49.7 c23.6,2.1,48.7,3.5,103.4-2.5c54.7-6,106.2-25.6,106.2-25.6V0H0v30.3c0,0,72,32.6,158.4,30.5c39.2-0.7,92.8-6.7,134-22.4 c21.2-8.1,52.2-18.2,79.7-24.2C399.3,7.9,411.6,7.5,421.9,6.5z"></path>
+        </svg>
+<!-- Oferta !-->
+
+<!-- Comprar pela Internet !-->
+<section class="comprarinternet" id="comprarinternet">
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 col-lg-12 col-sm-12">
+			<h1>Não está acostumado a <br><span>Comprar pela Internet?</span></h1>
+			<p>Fique tranquilo, comprar Detox Paris é fácil e confiável</p>
+		</div>
+		
+		<div class="col-md-7 col-lg-7 col-sm-7">
+			<img height="100%" width="100%" src="img/comocomprar.jpg" class="comocomprar img-fluid img-responsive">
+		</div>
+		
+		<div class="col-md-5 col-lg-5 col-sm-5">
+			<img height="100%" width="100%" src="img/comprafacil.gif" class="comprafacil img-fluid img-responsive">
+			<a href="#oferta" class="cta cta-comprafacil pulsar">Comprar Agora</a>
+			<img height="100%" width="100%" src="img/pagamento.png" class="pagamento img-fluid img-responsive">
+		</div>
+	</div>
+</div>
+</section>
+<!-- Comprar pela Internet !-->
+
+<!-- Garantia !-->
+<section class="garantia" id="garantia">
+<div class="container">
+	<div class="row">
+		
+		<div class="col-md-5 col-lg-5 col-sm-5">
+			<img height="100%" width="100%" src="img/garantia.png" class="garantia img-fluid img-responsive">
+		</div>
+		
+		<div class="col-md-7 col-lg-7 col-sm-7">
+			<h1>Garantia de resultados <br><span>ou seu dinheiro de volta!</span></h1>
+			<p>Na compra de qualquer kit você participa automaticamente do “Desafio 90 dias”, caso não tenha resultados visíveis e satisfatórios em 90 dias, nós devolvemos 100% do seu dinheiro, de acordo com os termos e condições.</p>
+			<p><b>Você terá até 90 dias após a entrega para solicitar a devolução.</b></p>
+		</div>
+		
+	</div>
+</div>
+</section>
+<!-- Garantia !-->
+
+<!-- FAQ !-->
+<section class="faq" id="faq">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 col-lg-12 col-sm-12">
+				<h1>Ainda com dúvidas?</h1>
+			</div>
+			
+			<div class="col-md-6 col-lg-6 col-sm-6">
+				
+				<div class="faq-item">
+					<button class="accordion">O QUE É E QUAIS OS EFEITOS DOS Detox Paris?</button>
+					<div class="panel">
+						<p>O Suplemento Detox Paris é seguro, eficaz e aprovado pela Anvisa. Possui benefícios para a melhora da saúde, colaborando na regulação do intestino, promovendo saciedade, controlando apetite, desintoxicando o corpo e consequentemente potencializando os resultados na busca de um corpo saudável e magro. possui uma ação emagrecedora, atuando na queima de gordura, desintoxicação do corpo, auxiliando na redução do inchaço do seu corpo, aumentando sua disposição e fazendo você emagrecer de forma rápida e definitiva.</p>
+					</div>
+				</div>
+				
+				<div class="faq-item">
+					<button class="accordion">EM QUANTO TEMPO EU TEREI RESULTADOS COM O Detox Paris?</button>
+					<div class="panel">
+						<p>Ao fim do primeiro mês, você já poderá notar pelo menos 4Kg eliminados! Com benefícios para o seu corpo, saúde, energia e disposição. Resultados podem variar de acordo com o organismo de cada pessoa.</p>
+					</div>
+				</div>
+				
+				<div class="faq-item">
+					<button class="accordion">VAI FUNCIONAR PRA MIM?</button>
+					<div class="panel">
+						<p>SIM! As substâncias ativas encontradas no Detox Paris vão desintoxicar o seu corpo, eliminar as toxinas e estimular o seu metabolismo e organismo, proporcionando assim, o emagrecimento saudável, definitivo, a queima de gordura localizada e a restauração da saúde do corpo.</p>
+					</div>
+				</div>
+				
+				<div class="faq-item">
+					<button class="accordion">É SÓ PARA MULHERES? HOMEM PODE TOMAR?</button>
+					<div class="panel">
+						<p>Detox Paris™ serve para ambos os sexos. Nossa fórmula possui ricos componentes que potencializam seu emagrecimento.</p>
+					</div>
+				</div>
+
+			</div>
+			
+			<div class="col-md-6 col-lg-6 col-sm-6">
+				
+				<div class="faq-item">
+					<button class="accordion">O FRETE É GRÁTIS? DEMORA QUANTO TEMPO?</button>
+					<div class="panel">
+						<p>Sim, o frete é 100% grátis e o prazo de entrega varia de 15 a 20 dias úteis.</p>
+					</div>
+				</div>
+				
+				<div class="faq-item">
+					<button class="accordion">OS RESULTADOS SÃO COMPROVADOS CIENTIFICAMENTE?</button>
+					<div class="panel">
+						<p>Sim. Os ingredientes que compõe o Detox Paris possuem propriedades nutricionais como algas, vitaminas, minerais, fibras, aminoácidos, fitonutrientes e formulações detox que são essenciais para o perfeito funcionamento do organismo. Comprovadamente, o Detox Paris funciona e possui benefícios para a queima de gordura e melhora da saúde, colaborando na regulação do intestino, promovendo saciedade, desintoxicando o corpo e consequentemente gerando os resultados de um corpo saudável e magro.</p>
+					</div>
+				</div>
+				
+				<div class="faq-item">
+					<button class="accordion">O Detox Paris TEM REGISTRO NA ANVISA?</button>
+					<div class="panel">
+						<p>Sim! O Detox Paris é autorizado pela ANVISA e possui registro no Ministério da Saúde. Seus componentes são naturais, sendo totalmente seguros e permitidos pelos órgãos regulamentadores.</p>
+					</div>
+				</div>
+				
+				<div class="faq-item">
+					<button class="accordion">QUAIS SÃO AS FORMAS DE PAGAMENTO?</button>
+					<div class="panel">
+						<p>Aceitamos os cartões de crédito mais usados: visa, mastercard e outros. Você também pode optar pela opção de boleto bancário.</p>
+					</div>
+				</div>
+
+			</div>
+
+			<script>
+				var acc = document.getElementsByClassName("accordion");
+				var i;
+
+				for (i = 0; i < acc.length; i++) {
+					acc[i].addEventListener("click", function() {
+						this.classList.toggle("active");
+						var panel = this.nextElementSibling;
+						if (panel.style.maxHeight) {
+						  panel.style.maxHeight = null;
+						} else {
+						  panel.style.maxHeight = panel.scrollHeight + "px";
+						} 
+					});
+				}
+			</script>
+		</div>
+	</div>
+</section>
+<!-- FAQ !-->
+
+<!-- WhatsApp !-->
+<section class="whatsapp" id="whatsapp">
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 col-lg-12 col-sm-12">
+			<h1>Ainda ficou <span>com alguma dúvida?</span></h1>
+			<a href="https://api.whatsapp.com/send?phone=5519999835774&text=Oi,%20vi%20seu%20site." target="_blank">
+				<img height="100%" width="100%" src="img/atendimentowpp.jpg" class="atendimentowpp img-fluid img-responsive">
+			</a>
+		</div>
+		
+	</div>
+</div>
+</section>
+<svg id="wavewhatsapp" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+            <path class="elementor-shape-fill" d="M421.9,6.5c22.6-2.5,51.5,0.4,75.5,5.3c23.6,4.9,70.9,23.5,100.5,35.7c75.8,32.2,133.7,44.5,192.6,49.7 c23.6,2.1,48.7,3.5,103.4-2.5c54.7-6,106.2-25.6,106.2-25.6V0H0v30.3c0,0,72,32.6,158.4,30.5c39.2-0.7,92.8-6.7,134-22.4 c21.2-8.1,52.2-18.2,79.7-24.2C399.3,7.9,411.6,7.5,421.9,6.5z"></path>
+        </svg>
+<!-- WhatsApp !-->
+	
+<!-- Rodapé !-->
+<footer class="footer" id="footer">
+	<div class="container">
+		<div class="row">
+			
+			<div class="col-md-3 col-lg-3 col-sm-3">
+				<div class="links-ft">
+					<h1>Links</h1>
+					<a href="#faq" class="link-item-ft">Perguntas Frequêntes</a>
+					<a href="" class="link-item-ft">Políticas de privacidade</a>
+					<a href="" class="link-item-ft">Termos e condições</a>
+					<a href="" target="_blank" class="link-item-ft">Rastrear Pedido</a>
+				</div>
+			</div>
+			
+			<div class="col-md-3 col-lg-3 col-sm-3">
+				<div class="garantia-ft">
+					<h1>Garantia Detox Paris</h1>
+					<p>Para saber mais detalhes sobre o desafio 90 dias Detox Paris consulte os "Termos e Condições" no rodapé de nosso site.</p>
+				</div>
+			</div>
+			
+			<div class="col-md-3 col-lg-3 col-sm-3">
+				<div class="pagamento-ft">
+					<h1>Formas de Pagamento</h1>
+					<img height="100%" width="100%" src="img/pagamento-icon.png" class="pagamento-icon img-fluid img-responsive">
+				</div>
+			</div>
+			
+			<div class="col-md-3 col-lg-3 col-sm-3">
+				<div class="site-seguro-ft">
+					<h1>Site Seguro</h1>
+					<img height="100%" width="100%" src="img/site-seguro.png" class="site-seguro img-fluid img-responsive">
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</footer>	
+<!-- Rodapé !-->
+	
+<!-- Optional JavaScript; choose one of the two! -->	
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.min.js" integrity="sha384-lpyLfhYuitXl2zRZ5Bn2fqnhNAKOAaM/0Kr9laMspuaMiZfGmfwRNFh8HlMy49eQ" crossorigin="anonymous"></script>	
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous"></script>	
+<!-- Optional JavaScript; choose one of the two! -->
+</body>
+</html>
